@@ -10,7 +10,7 @@ body {
 
 
 
-  font-family: 'FiraSansRegular';
+  font-family: 'Calibri';
   font-weight: normal;
   font-style: normal;
 }
@@ -20,13 +20,13 @@ body, pre, pre code {
 }
 
 a, a:visited {
-  color: #48820f;
+  color: #778899;
 }
 
 h1, h2 {
   display: inline-block;
   border-bottom-style: dotted;
-  border-bottom-color: #48820f;
+  border-bottom-color: #778899;
 }
 
 h1 {
